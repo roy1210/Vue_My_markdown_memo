@@ -1,6 +1,9 @@
 <template>
   <div id="home">
-    <h1>{{msg}}</h1>
+    <h1>
+      <img alt="MyMarkdown" src="../assets/logo.png">
+      {{msg}}
+    </h1>
     <button @click="googleLogin">Login with Google account</button>
   </div>
 </template>
@@ -22,3 +25,8 @@ export default {
 };
 </script>
 
+<style lang="scss">
+.home {
+  margin-top: 60px;
+}
+</style>
