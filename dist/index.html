@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>my markdown memo</title>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAwNY5HHdwmZUAp8SNkgaIXyOSBvYYeGhM",
+        authDomain: "my-markdown-memo.firebaseapp.com",
+        databaseURL: "https://my-markdown-memo.firebaseio.com",
+        projectId: "my-markdown-memo",
+        storageBucket: "my-markdown-memo.appspot.com",
+        messagingSenderId: "509792872263"
+      };
+      firebase.initializeApp(config);
+    </script>
+
+    <script src="./build.js"></script>
+  </body>
+</html>
