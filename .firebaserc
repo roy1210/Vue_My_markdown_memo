@@ -1,5 +1,6 @@
 {
   "projects": {
-    "my-markdown-memo": "my-markdown-memo"
+    "my-markdown-memo": "my-markdown-memo",
+    "default": "my-markdown-memo"
   }
 }
