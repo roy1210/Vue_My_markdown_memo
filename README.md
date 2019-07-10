@@ -1,20 +1,37 @@
-# mymarkdown
+# JS_Vue_My_Markdown_Memo
 
-> A Vue.js project
+## Description
 
-## Build Setup
+Markdown memo which can preview and edit on the same time.
 
-``` bash
-# install dependencies
-npm install
+**_DEMO:_**
 
-# serve with hot reload at localhost:8080
-npm run dev
+<img src="./mymarkdown.jpg" width="80%">
 
-# build for production with minification
-npm run build
+## Usage / Install
+
+Clone repo, cd into folder and run:
+
+```console
+$ npm install
+$ npm run dev
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Requirement
 
-![preview](./mymarkdown.jpg)
+- npm
+
+## Tools
+
+- Vue v2 cli
+- Firebase
+- Firebase realtime DB
+- marked
+
+## Licence
+
+[MIT](./LICENSE.txt)
+
+## Author
+
+[Shoe Kure](https://github.com/roy1210)
