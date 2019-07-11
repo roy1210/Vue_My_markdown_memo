@@ -1,4 +1,4 @@
-# My-Markdown-Memo
+# My Markdown Memo
 
 ## Description
 
