@@ -1,4 +1,4 @@
-# JS_Vue_My_Markdown_Memo
+# My-Markdown-Memo
 
 ## Description
 
